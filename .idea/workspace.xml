@@ -1,13 +1,263 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ChangeListManager">
+    <list default="true" id="7d122593-e29a-43f0-abb3-1b754621200c" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Jarrod_Laptop.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/animals/BlackWidow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/animals/Gorilla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/animals/Hyena.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/animals/LargeBoar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/animals/Panther.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/halloween/OminousTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/halloween/ScaryPumpkin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/monsters/Blob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/mounts/GhostHellHorse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/mounts/Reindeer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/mounts/Unicorn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/npc/TombRaider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/npc/Wagoner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/treasuregoblins/TreasureGoblin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/undead/Skeleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/undead/ZombieHulk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/undead/ZombieLeader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/undead/ZombieWalker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/util/Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoreCreatures.properties" beforeDir="false" afterPath="$PROJECT_DIR$/MoreCreaturesMod.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoreCreaturesMod.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MoreCreaturesMod.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common.jar" beforeDir="false" afterPath="$PROJECT_DIR$/common.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.jar" beforeDir="false" afterPath="$PROJECT_DIR$/server.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/CreatureChanges.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/CreatureChanges.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/CreatureMod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/CreatureMod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/animals/Anaconda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/animals/Gorilla.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/animals/Hyena.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/animals/LargeBoar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/animals/LargeRat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/animals/LargeRat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/animals/Ocelot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/animals/PandaBear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/animals/SiberianHusky.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/animals/Unicorn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/animals/WarHound.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/animals/WarHound.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/animals/WolfPackmaster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/animals/WolfPackmaster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/animals/Zebra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/mounts/GhostHorse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/custommounts/Charger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/custommounts/HornedPony.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/custommounts/RainbowUnicorn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/mounts/RainbowUnicorn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/custommounts/RainbowZebra.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/farmanimals/Bull.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/farmanimals/Calf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/farmanimals/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/animals/Anaconda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/farmanimals/Chicken.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/farmanimals/Cow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/farmanimals/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/farmanimals/Foal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/farmanimals/Horse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/farmanimals/Pig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/farmanimals/Rooster.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/halloween/OminousTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/halloween/ScaryPumpkin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/monsters/BlackWidow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/monsters/Blob.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/monsters/Deathcrawler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/monsters/ForestSpider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/monsters/Giant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/monsters/Goblin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/monsters/Goblin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/monsters/LavaFiend.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/monsters/LavaFiend.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/monsters/SolDemon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/monsters/SolDemon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/monsters/SpiritTroll.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/monsters/Worg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/monsters/Worg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/npc/Avenger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/npc/DarkInnkeeper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/npc/Innkeeper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/undead/Reaper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/undead/Skeleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/undead/Zombie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/requiem/mods/creatures/uniques/KingKong.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CreatureChanges.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/requiem/mods/morecreatures/CreatureChanges.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="220" column="37" lean-forward="true" selection-start-line="220" selection-start-column="37" selection-end-line="220" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CreatureMod.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/org/requiem/mods/morecreatures/CreatureMod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="105" lean-forward="true" selection-start-line="105" selection-end-line="105" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>hyena</find>
+      <find>WyvernMods.</find>
+      <find>import mod.sin.wyvern.WyvernMods;</find>
+      <find>Boolean.toString</find>
+      <find>logger.</find>
+      <find>New</find>
+      <find>doNew</find>
+      <find>i</find>
+      <find>treasure</find>
+      <find>mod.creature.</find>
+      <find>.&quot;</find>
+      <find>getInstance</find>
+      <find>getTemplate</find>
+      <find>getName</find>
+      <find>ModCreatures.</find>
+      <find>modifyNewCreature</find>
+      <find>sendToWorld</find>
+      <find>adding</find>
+      <find>Custom Mounts</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>CreatureMod.</replace>
+      <replace>import org.requiem.mods.morecreatures.CreatureMod;</replace>
+      <replace>valueOf</replace>
+      <replace>CreatureMod.logger.</replace>
+      <replace>treasureChest</replace>
+      <replace>morecreatures.</replace>
+      <replace>&quot;</replace>
+      <replace>Mounts</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/org/requiem/mods/creatures/animals/Hyena.java" />
+        <option value="$PROJECT_DIR$/src/org/requiem/mods/creatures/CreatureChanges.java" />
+        <option value="$PROJECT_DIR$/src/org/requiem/mods/creatures/CreatureMod.java" />
+        <option value="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/titans/Ifrit.java" />
+        <option value="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/monsters/ForestSpider.java" />
+        <option value="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/monsters/Goblin.java" />
+        <option value="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/halloween/ScaryPumpkin.java" />
+        <option value="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/dragons/WyvernBlack.java" />
+        <option value="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/custommounts/RainbowUnicorn.java" />
+        <option value="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/animals/Reindeer.java" />
+        <option value="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/treasuregoblins/TreasureGoblin.java" />
+        <option value="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/animals/BlackWidow.java" />
+        <option value="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/animals/Unicorn.java" />
+        <option value="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/monsters/LavaFiend.java" />
+        <option value="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/monsters/Blob.java" />
+        <option value="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/monsters/SolDemon.java" />
+        <option value="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/monsters/Worg.java" />
+        <option value="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/npc/TombRaider.java" />
+        <option value="$PROJECT_DIR$/MoreCreatures.properties" />
+        <option value="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/util/Util.java" />
+        <option value="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/CreatureChanges.java" />
+        <option value="$PROJECT_DIR$/src/org/requiem/mods/morecreatures/CreatureMod.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="260" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
     <option name="height" value="990" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MoreCreaturesMod" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MoreCreaturesMod" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MoreCreaturesMod" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MoreCreaturesMod" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MoreCreaturesMod" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MoreCreaturesMod" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="morecreatures" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MoreCreaturesMod" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MoreCreaturesMod" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="morecreatures" type="462c0819:PsiDirectoryNode" />
+              <item name="creatures" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MoreCreaturesMod" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MoreCreaturesMod" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="morecreatures" type="462c0819:PsiDirectoryNode" />
+              <item name="creatures" type="462c0819:PsiDirectoryNode" />
+              <item name="mounts" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DrakeMountMod" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.requiem.mods.morecreatures.creatures.monsters" />
+      <recent name="org.requiem.mods.morecreatures.creatures.custommounts" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jarrod Laptop\IdeaProjects\MoreCreaturesMod\src\org\requiem\mods\morecreatures\creatures" />
+      <recent name="C:\Users\Jarrod Laptop\IdeaProjects\MoreCreaturesMod\src\org\requiem\mods\morecreatures" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager">
     <configuration default="true" type="Application" factoryName="Application">
@@ -52,8 +302,371 @@
       <listeners />
     </configuration>
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d122593-e29a-43f0-abb3-1b754621200c" name="Default" comment="" />
+      <created>1524713946951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524713946951</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1524714055550</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1524714055550</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18033855" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32965517" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32965517" />
+    </layout>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/org/requiem/mods/morecreatures/CreatureMod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MoreCreaturesMod.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/requiem/mods/morecreatures/CreatureChanges.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="40" column="30" lean-forward="true" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/requiem/mods/morecreatures/CreatureMod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MoreCreaturesMod.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/requiem/mods/creatures/animals/Gorilla.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/requiem/mods/creatures/animals/Hyena.java" />
+    <entry file="jar://$PROJECT_DIR$/server.jar!/com/wurmonline/server/creatures/CreatureTemplateCreator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="1046" column="144" selection-start-line="1046" selection-start-column="139" selection-end-line="1046" selection-end-column="144" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/monsters/ForestSpider.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/dragons/WyvernBlack.java" />
+    <entry file="jar://$PROJECT_DIR$/server.jar!/com/wurmonline/server/Server.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="2233" column="16" selection-start-line="2233" selection-start-column="16" selection-end-line="2233" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_WyvernMods.zip/WyvernMods/src/org/gotti/wurmunlimited/mods/wyvernmods/Arena.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_WyvernMods.zip/WyvernMods/src/org/gotti/wurmunlimited/mods/wyvernmods/MiscChanges.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_WyvernMods.zip/WyvernMods/src/org/gotti/wurmunlimited/mods/wyvernmods/WyvernMods.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_WyvernMods.zip/WyvernMods/src/org/gotti/wurmunlimited/mods/wyvernmods/Bounty.java" />
+    <entry file="jar://$PROJECT_DIR$/server.jar!/com/wurmonline/server/items/ItemTemplateCreatorContinued.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="350" column="389" lean-forward="true" selection-start-line="350" selection-start-column="389" selection-end-line="350" selection-end-column="389" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/animals/BlackWidow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="19" column="61" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/animals/Gorilla.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/animals/Hyena.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/animals/LargeBoar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/animals/Panther.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/animals/LargeRat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/animals/Anaconda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/animals/WarHound.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/animals/WolfPackmaster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/mounts/GhostHorse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/mounts/RainbowUnicorn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="77" column="43" lean-forward="true" selection-start-line="77" selection-start-column="43" selection-end-line="77" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/monsters/Goblin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/monsters/LavaFiend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/monsters/Blob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/halloween/ScaryPumpkin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/halloween/OminousTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/monsters/Worg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/monsters/SolDemon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/npc/TombRaider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/npc/Wagoner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/undead/Skeleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/undead/ZombieHulk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/undead/ZombieLeader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/undead/ZombieWalker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/treasuregoblins/TreasureGoblin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MoreCreaturesMod.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_DraconusServer-0.6.zip/DraconusServer-0.6/src/com/draconusarcanum/wurm/mods/allinone/AllInOne.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/mounts/Reindeer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/mounts/Unicorn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/requiem/mods/morecreatures/util/Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/server.jar!/com/wurmonline/server/creatures/Creature.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="208" column="27" lean-forward="true" selection-start-line="208" selection-start-column="27" selection-end-line="208" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/server.jar!/com/wurmonline/server/creatures/CreatureTemplateFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/requiem/mods/morecreatures/creatures/mounts/GhostHellHorse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-646">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/requiem/mods/morecreatures/CreatureChanges.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="220" column="37" lean-forward="true" selection-start-line="220" selection-start-column="37" selection-end-line="220" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/requiem/mods/morecreatures/CreatureMod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="105" lean-forward="true" selection-start-line="105" selection-end-line="105" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
