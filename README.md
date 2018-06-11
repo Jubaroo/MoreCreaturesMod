@@ -5,7 +5,7 @@ This mod is aimed to compliment [ago's creature mod](https://github.com/ago1024/
 * Allow the Treasure Goblin announcment to be broadcast to twitter *(if twitter is enabled)*
 
 # Creature Changes
-* You now have the option to make whales a domestic animal and enable them to be milked ([just like in real life!](http://www.whalefacts.org/whale-milk/))
+* You now have the option to make whales a domestic animal, able to be lead with a rope, and enable them to be milked ([just like in real life!](http://www.whalefacts.org/whale-milk/))
 # Animals:
 * **Anaconda**
   * New trait **Red** *(based off of Cobra King)*
