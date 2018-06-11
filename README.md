@@ -2,7 +2,7 @@
 This mod is aimed to compliment [ago's creature mod](https://github.com/ago1024/CreatureMod). It adds several new creatures, some with custom textures.
 
 # Creature Changes
-* You now have the option to make whales a domestic animal and enable them to be milked ([just like in real like](http://www.whalefacts.org/whale-milk/))
+* You now have the option to make whales a domestic animal and enable them to be milked ([just like in real life!](http://www.whalefacts.org/whale-milk/))
 # Animals:
 * **Anaconda**
   * New trait **Red** *(based off of Cobra King)*
