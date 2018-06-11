@@ -73,14 +73,14 @@ This mod is aimed to compliment [ago's creature mod](https://github.com/ago1024/
 # Undead:
 * **Skeleton**
   * made spawn naturally
-* Zombie Hulk
+**Zombie Hulk**
   * Will follow a Zombie Leader
   * combat rating - **40**
   * combat move - **EARTHSHAKE**
-* Zombie Leader
+**Zombie Leader**
   * Leads other zombies
   * combat rating - **50**
   * combat move - **STUN**
-* Zombie Walker
+**Zombie Walker**
   * Will follow a Zombie Leader
   * combat rating - **8**
