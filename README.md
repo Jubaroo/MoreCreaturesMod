@@ -78,10 +78,9 @@ This mod is aimed to compliment [ago's creature mod](https://github.com/ago1024/
   * Non aggressive
 
 # Treasure Goblin:
-* damage - **Pierce**
-* combat rating - **19**
 * Enable the Treasure Goblin. Treasure Goblins contain loot when killed. The maximum number of treasure goblins on the map is limited to 1, unless a GM summons one
-
+ * damage - **Pierce**
+ * combat rating - **19**
 **===== Treasure Goblin loot =====**
   * Treasure Chest *(contains the same loot as a normal unique would drop)*
   * Strange Bone of random rarity
