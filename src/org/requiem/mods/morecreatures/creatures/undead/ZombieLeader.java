@@ -47,9 +47,9 @@ public class ZombieLeader implements ModCreature, CreatureTypes {
         builder.alignment(-100.0f);
         builder.handDamString("smash");
         builder.headbuttDamString("bite");
-        builder.setCombatMoves(new int[]{CombatMove.ACIDBREATH});
+        builder.setCombatMoves(new int[]{CombatMove.STUN});
         builder.hasHands (true);
-        builder.maxPopulationOfCreatures(10);
+        builder.maxPercentOfCreatures(0.0001f);
         builder.sizeModifier(200,200,200);
         builder.meatMaterial(ItemMaterials.MATERIAL_MEAT_HUMAN);
         

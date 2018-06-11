@@ -39,15 +39,15 @@ public class ZombieWalker implements ModCreature, CreatureTypes {
         builder.skill(WEAPONLESS_FIGHTING, 40.0f);
         
         builder.armourType(ArmourTypes.ARMOUR_LEATHER);
-        builder.baseCombatRating(15.0f);
-        builder.combatDamageType(Wound.TYPE_INFECTION);
+        builder.baseCombatRating(8.0f);
+        builder.combatDamageType(Wound.TYPE_CRUSH);
         builder.maxGroupAttackSize(4);
         builder.maxAge(56);
         builder.alignment(-100.0f);
         builder.handDamString("scratch");
         builder.headbuttDamString("bite");
         builder.hasHands (true);
-        builder.maxPopulationOfCreatures(1000);
+        builder.maxPercentOfCreatures(0.01f);
         builder.meatMaterial(ItemMaterials.MATERIAL_MEAT_HUMAN);
         builder.leaderTemplateId(ZombieLeader.templateId);
         

@@ -41,15 +41,16 @@ public class ZombieHulk implements ModCreature, CreatureTypes {
 
         builder.armourType(ArmourTypes.ARMOUR_LEATHER);
         builder.baseCombatRating(40.0f);
-        builder.combatDamageType(Wound.TYPE_INFECTION);
+        builder.combatDamageType(Wound.TYPE_CRUSH);
         builder.maxGroupAttackSize(5);
         builder.maxAge(56);
         builder.alignment(-100.0f);
         builder.handDamString("smash");
+        builder.kickDamString("slam");
         builder.headbuttDamString("bite");
-        builder.setCombatMoves(new int[]{CombatMove.STUN});
+        builder.setCombatMoves(new int[]{CombatMove.EARTHSHAKE});
         builder.hasHands (true);
-        builder.maxPopulationOfCreatures(100);
+        builder.maxPercentOfCreatures(0.001f);
         builder.sizeModifier(150,150,150);
         builder.meatMaterial(ItemMaterials.MATERIAL_MEAT_HUMAN);
         builder.leaderTemplateId(ZombieLeader.templateId);

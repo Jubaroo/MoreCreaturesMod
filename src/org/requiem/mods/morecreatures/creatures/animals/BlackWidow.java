@@ -49,7 +49,7 @@ public class BlackWidow implements ModCreature, CreatureTypes
         builder.denName("widow lair");
         builder.denMaterial(ItemMaterials.MATERIAL_STONE);
         builder.maxPercentOfCreatures(0.0003F);
-        builder.setCombatMoves(new int[]{CombatMove.DOUBLE_FIST});
+        builder.setCombatMoves(new int[]{CombatMove.ACIDBREATH});
         builder.meatMaterial(ItemMaterials.MATERIAL_MEAT_INSECT);
         
         return builder;

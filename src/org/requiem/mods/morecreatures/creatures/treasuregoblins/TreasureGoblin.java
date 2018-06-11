@@ -86,4 +86,5 @@ public class TreasureGoblin implements ModCreature, CreatureTypes {
             new EncounterBuilder(Tiles.Tile.TILE_ENCHANTED_BUSH.id).addCreatures(templateId, 1).build(1);
         }
     }
+
 }

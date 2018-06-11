@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SinduskLibrary">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SinduskLibrary.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

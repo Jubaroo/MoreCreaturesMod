@@ -57,7 +57,7 @@ public class Reindeer implements ModCreature, CreatureTypes, ArmourTypes {
         builder.maxPercentOfCreatures(0.003f);
         builder.maxGroupAttackSize(6);
         builder.meatMaterial(ItemMaterials.MATERIAL_MEAT_GAME);
-        //builder.sizeModifier(60,60,60);
+        builder.sizeModifier(60,60,60);
         
         return builder;
     }

@@ -45,7 +45,7 @@ public class ScaryPumpkin implements ModCreature, CreatureTypes {
         builder.armourType(ArmourTypes.ARMOUR_STUDDED);
         builder.baseCombatRating(11.0f);
         builder.combatDamageType(Wound.TYPE_PIERCE);
-        builder.maxGroupAttackSize(6);
+        builder.maxGroupAttackSize(8);
         builder.maxPercentOfCreatures(0.05f);
         builder.meatMaterial(ItemMaterials.MATERIAL_MEAT);
 

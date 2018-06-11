@@ -44,7 +44,7 @@ public class Skeleton implements ModCreature, CreatureTypes {
         builder.alignment(-20.0F);
         builder.baseCombatRating(9.0F);
         builder.maxGroupAttackSize(3);
-        builder.maxPercentOfCreatures(0.00007F);
+        builder.maxPercentOfCreatures(0.0007F);
         builder.meatMaterial(ItemMaterials.MATERIAL_MEAT);
 
         return builder;

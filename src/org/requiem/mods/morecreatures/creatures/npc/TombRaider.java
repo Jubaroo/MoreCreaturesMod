@@ -27,7 +27,7 @@ public class TombRaider implements ModCreature, CreatureTypes {
         final int[] itemsButchered = {leather, arrowHunting, cookedMeat, riftCrystal, goldBar, goldBar};
         
         final CreatureTemplateBuilder builder = new CreatureTemplateBuilder(TOMB_RAIDER, "Tomb Raider", "Tomb raiders travel the world looking for treasures. They are formidable opponents to fight as they can stun with their whips.", "model.creature.humanoid.human.wagoner", types, BodyTemplate.TYPE_HUMAN, (short) 2, (byte) 0,
-                (short) 180, (short) 20, (short) 35, "sound.death.male", "sound.death.female", "sound.combat.hit.male", "sound.combat.hit.female", 0.21F, 5.0f, 5.0f, 0.0f, 0.0f, 0.0f, 1.0f, 2500, itemsButchered, 35, 5);
+                (short) 180, (short) 20, (short) 35, "sound.death.male", "sound.death.female", "sound.combat.hit.male", "sound.combat.hit.female", 0.11F, 5.0f, 5.0f, 0.0f, 0.0f, 0.0f, 1.25f, 2500, itemsButchered, 35, 5);
         
         templateId = builder.getTemplateId();
         
@@ -61,7 +61,7 @@ public class TombRaider implements ModCreature, CreatureTypes {
         if (templateId == 0) {
             return;
         }
-        if (CreatureMod.npc) {
+        if (CreatureMod.aggressiveNPC) {
             new EncounterBuilder(Tiles.Tile.TILE_GRASS.id).addCreatures(templateId, 1).build(1);
         }
     }
