@@ -83,7 +83,7 @@ This mod is aimed to compliment [ago's creature mod](https://github.com/ago1024/
  * combat rating - **19**
 
 **===== Treasure Goblin loot =====**
-  * Treasure Chest *(contains the same loot as a normal unique would drop)*
+  * Treasure Chest *(contains the same loot as a normal chest would drop)*
   * Strange Bone of random rarity
   * 5 Silver Coin of random rarity
   * 5 Source Salt
