@@ -9,7 +9,8 @@ This mod is aimed to compliment [ago's creature mod](https://github.com/ago1024/
 # Animals:
 * **Anaconda**
   * New trait **Red** *(based off of Cobra King)*
-* **Black Widow** - Based from fog spiders
+* **Black Widow**
+  * Based from fog spiders
   * damage-**Poison**
   * combat rating - **15**
   * combat move - **ACIDBREATH**
@@ -23,6 +24,9 @@ This mod is aimed to compliment [ago's creature mod](https://github.com/ago1024/
   * New trait **black**
 * **Panther**
   * New texture
+   * damage-**Slash**
+  * combat rating - **5**
+  * combat move - **DOUBLE_FIST**
 * **War Hound**
   * based from Rift Beast *(acts like a hell horse as far as aggresion)*
 * **Wolf Packmaster**
@@ -37,9 +41,11 @@ This mod is aimed to compliment [ago's creature mod](https://github.com/ago1024/
 # Monsers:
 * **Blob**
   * damage - **Acid**
-  * combat rating - **19**
+  * combat rating - **14**
+  * pierceResistance - **90**
 * **Cyclops**
-  * combat rating - **10**
+  * damage - **Crush**
+  * combat rating - **20**
 * **Goblin**
   * made spawn naturally
 * **Lava Fiend**
@@ -51,20 +57,29 @@ This mod is aimed to compliment [ago's creature mod](https://github.com/ago1024/
 
 # Mounts:
 * **Ghost Hell Horse**
+  * damage - **Burn**
+  * combat rating - **11**
 * **Ghost Horse**
+  * damage - **Crush**
+  * combat rating - **8**
 * **Rainbow Unicorn
+  * damage - **Crush**
+  * combat rating - **14**
 * **Reindeer**
   * made spawn naturally
 * **Unicorn**
   * New traits **Green,Red,Blue,Pink,Orange,Yellow,Purple**
 # NPC:
 * **Tomb Raider**
+  * damage - **Slash**
   * combat rating - **25**
   * combat move - **STUN**
 * **Wagoner** 
   * Non aggressive
 
 # Treasure Goblin:
+* damage - **Pierce**
+* combat rating - **19**
 * Enable the Treasure Goblin. Treasure Goblins contain loot when killed. The maximum number of treasure goblins on the map is limited to 1, unless a GM summons one
 
 **===== Treasure Goblin loot =====**
@@ -78,12 +93,15 @@ This mod is aimed to compliment [ago's creature mod](https://github.com/ago1024/
   * made spawn naturally
 * **Zombie Hulk**
   * Will follow a Zombie Leader
-  * combat rating - **40**
+  * damage - **Crush**
+  * combat rating - **36**
   * combat move - **EARTHSHAKE**
 * **Zombie Leader**
   * Leads other zombies
+  * damage - **Infection**
   * combat rating - **50**
   * combat move - **STUN**
 * **Zombie Walker**
   * Will follow a Zombie Leader
+  * damage - **Slash**
   * combat rating - **8**
